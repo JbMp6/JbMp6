@@ -21,7 +21,7 @@ I'm a computer science student passionate about creating innovative and high-per
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JbMp6&show_icons=true&theme=dark)
+[![My Stats](https://github-readme-stats.vercel.app/api?username=JbMp6)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📬 Get in Touch
 
