@@ -19,9 +19,6 @@ I'm a computer science student passionate about creating innovative and high-per
 🎯 Focused on code quality and user experience  
 🤝 Open to collaboration and interesting projects  
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JbMp6&show_icons=true&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
 
 ## 📬 Get in Touch
 
