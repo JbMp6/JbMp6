@@ -10,7 +10,7 @@ I'm a computer science student passionate about creating innovative and high-per
 
 ## 🛠️ Technical Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,express,java,py,node,npm,vscode,mysql,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,express,java,py,nodejs,npm,vscode,mysql,git)](https://skillicons.dev)
 
 ## 💼 About Me
 
